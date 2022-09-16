@@ -364,10 +364,13 @@ img {
   color: var(--heading-txt-cl);
 }
 
+.modal-form {
+  margin-top: 12px;
+}
+
 .fields-area {
   display: flex;
   flex-direction: column;
-  margin-top: 12px;
 }
 
 .input-svg {
@@ -945,13 +948,10 @@ img {
   margin-left: 93px;
 }
 
-.footer-heading {
-  display: block;
-  margin-bottom: 20px;
-}
 
 .subscribe-group {
   display: flex;
+  margin-top: 20px;
 }
 
 .subscribe-email {
